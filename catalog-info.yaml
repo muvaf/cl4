@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "cl4"
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "muvaf"
